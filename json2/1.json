@@ -1,49 +1,49 @@
 {
-  "name": "Elena Sinelnikova #001",
+  "name": "Alvin Foo #002",
   "symbol": "PANTHEON",
-  "description": "Canada's Top Woman in Blockchain Awardee.",
+  "description": "Entrepreneur, Advisor",
   "seller_fee_basis_points": 500,
-  "image": "https://raw.githubusercontent.com/hunghoang3011/jsonnfttest/main/img1/0.png",
+  "image": "https://raw.githubusercontent.com/hunghoang3011/jsonnfttest/main/img1/1.png",
   "attributes": [
     {
       "trait_type": "Goddess/God",
-      "value": "Goddess"
+      "value": "God"
     },
     {
       "trait_type": "Linkedin",
-      "value": "https://www.linkedin.com/in/esinelnikova"
+      "value": "https://www.linkedin.com/in/alvinfsc/"
     },
     {
       "trait_type": "Position",
-      "value": "CEO"
+      "value": "Venture Partner"
     },
     {
       "trait_type": "BG Color",
-      "value": "Wine Berry"
+      "value": "Very dark shade of blue"
     },
     {
       "trait_type": "Hex Code",
-      "value": "4D1536"
+      "value": "91230"
     },
     {
       "trait_type": "Animal",
-      "value": "Zebra"
+      "value": ""
     },
     {
       "trait_type": "Vibe",
-      "value": "Touching Wildlife"
+      "value": "God in the darkness"
     },
     {
       "trait_type": "Accessories",
-      "value": "Necklaces Gold, White Flower Crown"
+      "value": "Silk scarf, Metal shoulder pads, White Flower Crown"
     },
     {
       "trait_type": "Outfit",
-      "value": "Black long sleeve with gold glitter 1"
+      "value": "Metal armour"
     },
     {
       "trait_type": "Extras",
-      "value": "Plants, red flowers and sparkles invading the background"
+      "value": "Plants, rock, moon"
     }
   ],
   "properties": {
@@ -55,7 +55,7 @@
     ],
     "files": [
       {
-        "uri": "0.png",
+        "uri": "1.png",
         "type": "image/png"
       }
     ],

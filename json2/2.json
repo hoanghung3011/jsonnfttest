@@ -1,9 +1,9 @@
 {
-  "name": "Elena Sinelnikova #001",
+  "name": "Maya Frost #003",
   "symbol": "PANTHEON",
-  "description": "Canada's Top Woman in Blockchain Awardee.",
+  "description": "web3 for climate solutions activist",
   "seller_fee_basis_points": 500,
-  "image": "https://raw.githubusercontent.com/hunghoang3011/jsonnfttest/main/img1/0.png",
+  "image": "https://raw.githubusercontent.com/hunghoang3011/jsonnfttest/main/img1/2.png",
   "attributes": [
     {
       "trait_type": "Goddess/God",
@@ -11,31 +11,31 @@
     },
     {
       "trait_type": "Linkedin",
-      "value": "https://www.linkedin.com/in/esinelnikova"
+      "value": "https://www.linkedin.com/in/mayafrost/"
     },
     {
       "trait_type": "Position",
-      "value": "CEO"
+      "value": "Founder"
     },
     {
       "trait_type": "BG Color",
-      "value": "Wine Berry"
+      "value": "Teal"
     },
     {
       "trait_type": "Hex Code",
-      "value": "4D1536"
+      "value": "12585C"
     },
     {
       "trait_type": "Animal",
-      "value": "Zebra"
+      "value": "Butterflies"
     },
     {
       "trait_type": "Vibe",
-      "value": "Touching Wildlife"
+      "value": "Green Tropical"
     },
     {
       "trait_type": "Accessories",
-      "value": "Necklaces Gold, White Flower Crown"
+      "value": "Gold2"
     },
     {
       "trait_type": "Outfit",
@@ -43,7 +43,7 @@
     },
     {
       "trait_type": "Extras",
-      "value": "Plants, red flowers and sparkles invading the background"
+      "value": "Leaves on background"
     }
   ],
   "properties": {
@@ -55,7 +55,7 @@
     ],
     "files": [
       {
-        "uri": "0.png",
+        "uri": "2.png",
         "type": "image/png"
       }
     ],
