@@ -1,22 +1,13 @@
 {
   "name": "Elena Sinelnikova #001",
+  "Position": "CEO",
+  "linkedin": "https://www.linkedin.com/in/esinelnikova",
   "symbol": "PANTHEON",
   "description": "Canada's Top Woman in Blockchain Awardee.",
   "seller_fee_basis_points": 500,
-  "image": "https://raw.githubusercontent.com/hunghoang3011/jsonnfttest/main/img1/0.png",
+  "image": "0.png",
+  "Goddess/God": "Goddess",
   "attributes": [
-    {
-      "trait_type": "Goddess/God",
-      "value": "Goddess"
-    },
-    {
-      "trait_type": "Linkedin",
-      "value": "https://www.linkedin.com/in/esinelnikova"
-    },
-    {
-      "trait_type": "Position",
-      "value": "CEO"
-    },
     {
       "trait_type": "BG Color",
       "value": "Wine Berry"
