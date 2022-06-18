@@ -1,22 +1,13 @@
 {
   "name": "Shane McQuillan #004",
+  "Position": "Executive Sponsor",
+  "linkedin": "https://www.linkedin.com/in/startupadviser/",
   "symbol": "PANTHEON",
   "description": "Entrepreneur, Chain Builder",
   "seller_fee_basis_points": 500,
   "image": "https://raw.githubusercontent.com/hunghoang3011/jsonnfttest/main/img1/3.png",
+  "Goddess/God": "God",
   "attributes": [
-    {
-      "trait_type": "Goddess/God",
-      "value": "God"
-    },
-    {
-      "trait_type": "Linkedin",
-      "value": "https://www.linkedin.com/in/startupadviser/"
-    },
-    {
-      "trait_type": "Position",
-      "value": "Executive Sponsor"
-    },
     {
       "trait_type": "BG Color",
       "value": "Teal"

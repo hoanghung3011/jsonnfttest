@@ -1,22 +1,13 @@
 {
   "name": "Erin Cell #010",
+  "Position": "Co-Host",
+  "linkedin": "https://www.linkedin.com/in/erincell/",
   "symbol": "PANTHEON",
   "description": "Podcast host and producer",
   "seller_fee_basis_points": 500,
   "image": "https://raw.githubusercontent.com/hunghoang3011/jsonnfttest/main/img1/9.png",
+  "Goddess/God": "Goddess",
   "attributes": [
-    {
-      "trait_type": "Goddess/God",
-      "value": "Goddess"
-    },
-    {
-      "trait_type": "Linkedin",
-      "value": "https://www.linkedin.com/in/erincell/"
-    },
-    {
-      "trait_type": "Position",
-      "value": "Co-Host"
-    },
     {
       "trait_type": "BG Color",
       "value": "Rosewood"

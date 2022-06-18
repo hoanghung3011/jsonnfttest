@@ -1,22 +1,13 @@
 {
   "name": "Michelle Mallette #007",
+  "Position": "Partner",
+  "linkedin": "https://www.linkedin.com/in/michellemallette/",
   "symbol": "PANTHEON",
   "description": "Business development expert",
   "seller_fee_basis_points": 500,
   "image": "https://raw.githubusercontent.com/hunghoang3011/jsonnfttest/main/img1/6.png",
+  "Goddess/God": "Goddess",
   "attributes": [
-    {
-      "trait_type": "Goddess/God",
-      "value": "Goddess"
-    },
-    {
-      "trait_type": "Linkedin",
-      "value": "https://www.linkedin.com/in/michellemallette/"
-    },
-    {
-      "trait_type": "Position",
-      "value": "Partner"
-    },
     {
       "trait_type": "BG Color",
       "value": "Sea Turtle Green"

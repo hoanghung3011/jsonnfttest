@@ -1,22 +1,13 @@
 {
   "name": "Maya Frost #003",
+  "Position": "Founder",
+  "linkedin": "https://www.linkedin.com/in/mayafrost/",
   "symbol": "PANTHEON",
   "description": "web3 for climate solutions activist",
   "seller_fee_basis_points": 500,
   "image": "https://raw.githubusercontent.com/hunghoang3011/jsonnfttest/main/img1/2.png",
+  "Goddess/God": "Goddess",
   "attributes": [
-    {
-      "trait_type": "Goddess/God",
-      "value": "Goddess"
-    },
-    {
-      "trait_type": "Linkedin",
-      "value": "https://www.linkedin.com/in/mayafrost/"
-    },
-    {
-      "trait_type": "Position",
-      "value": "Founder"
-    },
     {
       "trait_type": "BG Color",
       "value": "Teal"

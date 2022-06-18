@@ -1,22 +1,13 @@
 {
   "name": "Laura Walsh #008",
+  "Position": "CEO",
+  "linkedin": "https://www.linkedin.com/in/lauratakenaka/",
   "symbol": "PANTHEON",
   "description": "Advocate for Blockchain education",
   "seller_fee_basis_points": 500,
   "image": "https://raw.githubusercontent.com/hunghoang3011/jsonnfttest/main/img1/7.png",
+  "Goddess/God": "Goddess",
   "attributes": [
-    {
-      "trait_type": "Goddess/God",
-      "value": "Goddess"
-    },
-    {
-      "trait_type": "Linkedin",
-      "value": "https://www.linkedin.com/in/lauratakenaka/"
-    },
-    {
-      "trait_type": "Position",
-      "value": "CEO"
-    },
     {
       "trait_type": "BG Color",
       "value": "Seaweed Green"

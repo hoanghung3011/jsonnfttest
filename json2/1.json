@@ -5,7 +5,7 @@
   "symbol": "PANTHEON",
   "description": "Entrepreneur, Advisor",
   "seller_fee_basis_points": 500,
-  "image": "1.png",
+  "image": "https://raw.githubusercontent.com/hunghoang3011/jsonnfttest/main/img1/1.png",
   "Goddess/God": "God",
   "attributes": [
     {

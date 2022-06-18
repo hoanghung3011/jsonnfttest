@@ -1,22 +1,13 @@
 {
   "name": "Cynthia Huang #006",
+  "Position": "Head of Growth",
+  "linkedin": "https://www.linkedin.com/in/cynthiajhuang/",
   "symbol": "PANTHEON",
   "description": "Growth, Product, Marketing Expert",
   "seller_fee_basis_points": 500,
   "image": "https://raw.githubusercontent.com/hunghoang3011/jsonnfttest/main/img1/5.png",
+  "Goddess/God": "Goddess",
   "attributes": [
-    {
-      "trait_type": "Goddess/God",
-      "value": "Goddess"
-    },
-    {
-      "trait_type": "Linkedin",
-      "value": "https://www.linkedin.com/in/cynthiajhuang/"
-    },
-    {
-      "trait_type": "Position",
-      "value": "Head of Growth"
-    },
     {
       "trait_type": "BG Color",
       "value": "Sunrise Pink"
