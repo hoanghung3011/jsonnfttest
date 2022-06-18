@@ -1,21 +1,24 @@
 {
   "name": "Alvin Foo #002",
+  "Position": "Venture Partner",
+  "Linkedin": "https://www.linkedin.com/in/alvinfsc/",
   "symbol": "PANTHEON",
   "description": "Entrepreneur, Advisor",
   "seller_fee_basis_points": 500,
-  "image": "https://raw.githubusercontent.com/hunghoang3011/jsonnfttest/main/img1/1.png",
+  "image": "1.png",
+  "Goddess/God": "God",
   "attributes": [
     {
-      "trait_type": "Goddess/God",
-      "value": "God"
+      "trait_type": "",
+      "value": ""
     },
     {
-      "trait_type": "Linkedin",
-      "value": "https://www.linkedin.com/in/alvinfsc/"
+      "trait_type": "",
+      "value": ""
     },
     {
-      "trait_type": "Position",
-      "value": "Venture Partner"
+      "trait_type": "",
+      "value": ""
     },
     {
       "trait_type": "BG Color",
