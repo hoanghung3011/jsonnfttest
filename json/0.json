@@ -1,67 +1,30 @@
 {
-  "name": "Elena Sinelnikova #001",
-  "symbol": "PANTHEON",
-  "description": "Canada's Top Woman in Blockchain Awardee",
-  "seller_fee_basis_points": 500,
-  "image": "0.png",
-  "attributes": [
-    {
-      "trait_type": "Goddess/God",
-      "value": "Goddess"
-    },
-    {
-      "trait_type": "Linkedin",
-      "value": "https://www.linkedin.com/in/esinelnikova"
-    },
-    {
-      "trait_type": "Position",
-      "value": "CEO"
-    },
-    {
-      "trait_type": "BG Color",
-      "value": "Wine Berry"
-    },
-    {
-      "trait_type": "Hex Code",
-      "value": "4D1536"
-    },
-    {
-      "trait_type": "Animal",
-      "value": "Zebra"
-    },
-    {
-      "trait_type": "Vibe",
-      "value": "Touching Wildlife"
-    },
-    {
-      "trait_type": "Accessories",
-      "value": "Necklaces Gold, White Flower Crown"
-    },
-    {
-      "trait_type": "Outfit",
-      "value": "Black long sleeve with gold glitter 1"
-    },
-    {
-      "trait_type": "Extras",
-      "value": "Plants, red flowers and sparkles invading the background"
-    }
-  ],
-  "properties": {
-    "creators": [
-      {
-        "address": "minter address",
-        "share": 50
-      }
-    ],
-    "files": [
-      {
-        "uri": "https://raw.githubusercontent.com/hunghoang3011/jsonnfttest/main/img/0.png",
-        "type": "image/png"
-      }
-    ]
-  },
-  "collection": {
-    "name:": "numbers",
-    "family": "numbers"
-  }
-}
+    "name":"Elena Sinelnikova #001",
+    "description":"Canada's Top Woman in Blockchain Awardee",
+    "image":"https://raw.githubusercontent.com/hunghoang3011/jsonnfttest/main/img/0.png",
+    "attributes":[
+        {"trait_type":"Goddess/God","value":"Goddess"},
+        {"trait_type":"Linkedin","value":"https://www.linkedin.com/in/esinelnikova"},
+        {"trait_type":"Position","value":"CEO"},
+        {"trait_type":"BG Color","value":"Wine Berry"},
+        {"trait_type":"Hex Code","value":"4D1536"},
+        {
+            "trait_type": "Animal",
+            "value": "Zebra"
+          },
+          {
+            "trait_type": "Vibe",
+            "value": "Touching Wildlife"
+          },
+          {
+            "trait_type": "Accessories",
+            "value": "Necklaces Gold, White Flower Crown"
+          },
+          {
+            "trait_type": "Outfit",
+            "value": "Black long sleeve with gold glitter 1"
+          },
+          {
+            "trait_type": "Extras",
+            "value": "Plants, red flowers and sparkles invading the background"
+          }]}
