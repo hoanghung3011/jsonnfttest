@@ -1,0 +1,79 @@
+{
+"Name": "Jane Park #013",
+"Position": "CEO",
+"LinkedIn": "https://www.linkedin.com/in/parkjane/",
+"symbol": PANTHEON",
+"Description": "Expert in consumer brand building and social commerce",
+"seller_fee_basis_points": 500, 
+"image": "12.PNG",
+"Goddess/God": "Goddess",
+"attributes": [
+{
+"trait_type": "BG Color",
+"value": "Purple Jam"
+},
+{
+"trait_type": "Hex Code",
+"value": "69227A"
+},
+{
+"trait_type": "Animal",
+"value": "Peacock"
+},
+{
+"trait_type": "Vibe",
+"value": "Purple grassland"
+},
+{
+"trait_type": "Accessories",
+"value": "Right Bangle"
+},
+{
+"trait_type": "Accessories 2",
+"value": "Left Bangle"
+},
+{
+"trait_type": "Accessories 3",
+"value": "Diamonds-Gold Purple necklace"
+},
+{
+"trait_type": "Accessories 4",
+"value": "Gold Earrings"
+},
+{
+"trait_type": "Accessories 5",
+"value": "Tri-colored Flowercrown"
+},
+{
+"trait_type": "Outfit",
+"value": "outfit 39F020C4-BB1C-45DC-8CCE-5EE594E55E26 1"
+},
+{
+"trait_type": "Extra",
+"value": "Leaves"
+},
+{
+"trait_type": "Extra 2",
+"value": "Sparkles"
+}
+],
+"properties": {
+"creators": [
+{
+"address": "HTn5k1jSHtDBjgCshiPgpgGADRrdAFda8qWD1pwn5e2u",
+"share": 100
+}
+],
+"files": [
+{
+"uri": "12.PNG",
+"type": image/png
+}
+],
+"category: "image"
+},
+"collection": {
+"name": "numbers",
+"family": "numbers"
+}
+}
