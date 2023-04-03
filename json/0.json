@@ -1,30 +1,5 @@
 {
-    "name":"Elena Sinelnikova #001",
-    "description":"Canada's Top Woman in Blockchain Awardee",
-    "image":"https://raw.githubusercontent.com/hunghoang3011/jsonnfttest/main/img/0.png",
-    "attributes":[
-        {"trait_type":"Goddess/God","value":"Goddess"},
-        {"trait_type":"Linkedin","value":"https://www.linkedin.com/in/esinelnikova"},
-        {"trait_type":"Position","value":"CEO"},
-        {"trait_type":"BG Color","value":"Wine Berry"},
-        {"trait_type":"Hex Code","value":"4D1536"},
-        {
-            "trait_type": "Animal",
-            "value": "Zebra"
-          },
-          {
-            "trait_type": "Vibe",
-            "value": "Touching Wildlife"
-          },
-          {
-            "trait_type": "Accessories",
-            "value": "Necklaces Gold, White Flower Crown"
-          },
-          {
-            "trait_type": "Outfit",
-            "value": "Black long sleeve with gold glitter 1"
-          },
-          {
-            "trait_type": "Extras",
-            "value": "Plants, red flowers and sparkles invading the background"
-          }]}
+    "name": "WEB3 DAILY PROFILE ",
+    "description": "WEB3 DAILY PROFILE",
+    "image": "https://raw.githubusercontent.com/hunghoang3011/jsonnfttest/main/img/LOGO-01.png"
+}
